@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<candies>
+    <candy>
+        <name>Chocolate Bar</name>
+        <description>A delicious chocolate bar.</description>
+        <price>1.50</price>
+    </candy>
+    <candy>
+        <name>Gummy Bears</name>
+        <description>A bag of assorted gummy bears.</description>
+        <price>2.00</price>
+    </candy>
+    <candy>
+        <name>Lollipop</name>
+        <description>A large, colorful lollipop.</description>
+        <price>0.50</price>
+    </candy>
+</candies>
