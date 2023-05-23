@@ -15,7 +15,7 @@ public class CandyParser {
 
     public static void main(String[] args) throws XMLStreamException, FileNotFoundException {
         XMLInputFactory factory = XMLInputFactory.newInstance();
-        XMLEventReader eventReader = factory.createXMLEventReader(new FileReader("src/main/java/ex_04/candies.xml"));
+        XMLEventReader eventReader = factory.createXMLEventReader(new FileReader("src/main/java/ex_04/git initcandies.xml"));
         List<Candy> candies = new ArrayList<>();
         Candy candy = null;
 
